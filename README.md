@@ -22,7 +22,7 @@ A **Java-based Airline Management System** with a user-friendly GUI for managing
 ![Home Screenshot](src/airlinemanagementsystem/icons/home.png)
 
 ### 🎫 Booking Interface
-![Booking Screenshot](src/airlinemanagementsystem/icons/bookin.png)
+![Booking Screenshot](src/airlinemanagementsystem/icons/book.png)
 
 ### 📋 Cancel Ticket Page
 ![Cancel Ticket Page Screenshot](src/airlinemanagementsystem/icons/cancelticket.png)
