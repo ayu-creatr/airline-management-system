@@ -18,14 +18,14 @@ A **Java-based Airline Management System** with a user-friendly GUI for managing
 
 ## 🖥️ Screenshots
 
-### 🔐 Login Interface
-![Login Screenshot](src/airlinemanagementsystem/icons/front.jpg)
+### 🔐 Home Interface
+![Home Screenshot](src/airlinemanagementsystem/icons/home.png)
 
 ### 🎫 Booking Interface
-![Booking Screenshot](src/airlinemanagementsystem/icons/details.jpg)
+![Booking Screenshot](src/airlinemanagementsystem/icons/bookin.png)
 
-### 📋 Customer Info Page
-![Customer Info Screenshot](src/airlinemanagementsystem/icons/emp.jpg)
+### 📋 Cancel Ticket Page
+![Cancel Ticket Page Screenshot](src/airlinemanagementsystem/icons/cancelticket.png)
 
 ---
 
